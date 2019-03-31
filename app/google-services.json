@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "17817116260",
+    "firebase_url": "https://redsocial-8db0b.firebaseio.com",
+    "project_id": "redsocial-8db0b",
+    "storage_bucket": "redsocial-8db0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17817116260:android:9c4527b3b7b420e1",
+        "android_client_info": {
+          "package_name": "com.example.gerard.socialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17817116260-jjqp1ab9ius8pvnod9mp3ffsao1jf12f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gerard.socialapp",
+            "certificate_hash": "ec25fab3b503a41cfa18ae4cf9df9a4b44c0ac3f"
+          }
+        },
+        {
+          "client_id": "17817116260-dn83nf88b00tfpd91joisqce6qbt70c9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9PdbYEm7PR_8wNmPDeKq3w-SVyVekNTo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17817116260-dn83nf88b00tfpd91joisqce6qbt70c9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
